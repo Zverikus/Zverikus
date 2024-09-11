@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zverikus
 - 🌱 I’m currently learning Pyton
-- 📫 How to reach me zverik32510@ya.ru
 
 <!---
 Zverikus/Zverikus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
